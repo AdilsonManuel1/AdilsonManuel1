@@ -28,7 +28,7 @@ Olá, Seje muito Bem-vindo (a) no meu GitHub. 👋
   <a href="https://www.youtube.com/channel/UCfRZtIW-Eas8igVvl-qEFCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adilson-manuel-85061918b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AdilsonManuel1/AdilsonManuel1/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
 
 
