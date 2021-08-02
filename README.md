@@ -1,4 +1,5 @@
-Olá, Seje muito Bem-vindo (a) no meu GitHub, eu sou o <h2><S>Adilson Manuel </S></h2> 👋
+Olá, Seje muito Bem-vindo (a) no meu GitHub. 
+<p> eu sou o Adilson Manuel</p> 👋
 
 - 🔭 Estou estudando desenvolvimento mobile, com Flutter
 - 🌱 Estou estudando a linguagem de programação Dart
