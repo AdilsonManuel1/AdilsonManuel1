@@ -1,5 +1,5 @@
 Olá, Seje muito Bem-vindo (a) no meu GitHub. 
-<p> eu sou o Adilson Manuel</p> 👋
+<h2> eu sou o Adilson Manuel</h2> 👋
 
 - 🔭 Estou estudando desenvolvimento mobile, com Flutter
 - 🌱 Estou estudando a linguagem de programação Dart
