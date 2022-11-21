@@ -3,7 +3,7 @@ Olá, Seje muito Bem-vindo (a) no meu GitHub. 👋
 
 - 🔭 Estou estudando desenvolvimento mobile, com Flutter
 - 🌱 Estou estudando a linguagem de programação Dart
-- 👯 Estou Procurando colaborar com desenvolvimento de Aplicativo, ou com Backend usando Dart ou PhP
+- 👯 Estou Procurando colaborar com desenvolvimento de Aplicativo, ou com Backend usando Dart ou C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adilson Manuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
